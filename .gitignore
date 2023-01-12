@@ -19,6 +19,14 @@ instance/
 .sass-cache/
 *.css.map
 
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 ### JetBrains template
 .idea
